@@ -1,7 +1,6 @@
 # ExemplaryProject 3  (Title of the project)
 # Authors 
 - Jan Kowalczyk
-- Piotr Słowik
 # Description of the project 
 Text here... 
 # Science and tech used 
